@@ -1,6 +1,6 @@
-# first_app
+# Dice Roller
 
-A new Flutter project.
+A Flutter Project, i did it using the Udemy Course [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
 
 ## Getting Started
 
