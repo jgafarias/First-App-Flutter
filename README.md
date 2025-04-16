@@ -4,8 +4,8 @@ A Flutter Project, i did it using the Udemy Course [Flutter & Dart - The Complet
 
 ## Demo
 <div align = "center">
-  
-![image](https://github.com/user-attachments/assets/5f4d5b7a-2438-44a8-a50c-555be03a2e4e)
+
+https://github.com/user-attachments/assets/b1c23b6d-8601-4c6b-9238-dfd7fc33462e
 
 </div>
 
