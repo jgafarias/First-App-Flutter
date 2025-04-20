@@ -1,6 +1,6 @@
 # Dice Roller
 
-A Flutter Project, i did it using the Udemy Course [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
+A Flutter Project, I made this project based on [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
 
 ## Demo
 <div align = "center">
